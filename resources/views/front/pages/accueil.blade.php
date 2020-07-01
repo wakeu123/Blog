@@ -3,11 +3,11 @@
 <!-- Do not display AskUser if displaying headerOnboarding -->
 
 @section('content')
-  
+
 <div class="high-section">
 
   <a class="hs-logo" href=" {{ config('app.name') }} ">
-    <img src="#" width="123" height="29" alt="Tchamex">
+      <img src="//static7.viadeo-static.com/images/logo-new-white.550159c0.svg" width="123" height="29" alt="Tchamex">
   </a>
 
   <a href="{{ route('login') }}" class="btn btn-white-alt header-signin-link hs-signin-link">Se connecter</a>
@@ -50,11 +50,11 @@
     </div></div>
   </div>
 
-    
 
-    
 
-    
+
+
+
 
   <ul class="slick-dots" style="display: block;" role="tablist">
     <li class="slick-active" aria-hidden="false" role="presentation" aria-selected="true" aria-controls="navigation00" id="slick-slide00">
@@ -66,7 +66,7 @@
     <li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation03" id="slick-slide03" class="">
     <button type="button" data-role="none" role="button" tabindex="0">4</button></li>
   </ul>
-  
+
 </div>
 
 </div>
@@ -121,11 +121,11 @@
 
       </div>
       <div id="top-companies" class="top-companies--container">
-        
+
             <div>
-            
+
             <script id="top-companies-props" type="application/json">
-                
+
             </script>
             </div>
       </div>
@@ -197,10 +197,10 @@
           <div class="companies-who-recruit mbl ptm pbm mls-s mrs-s">
                 <div class="gr pal pan-s mlxl-s">
                     <div class="gu gu-1of4 company_thumbnail">
-                    <a href="http://cm.viadeo.com/fr/company/rte-reseau-de-transport-d-electricite">
-                      <img class="pam" src="./Viadeo.com - Cameroun _ réseau social pour professionnels_files/image(3).png" width="68" height="68">
+                    <a href="#">
+                      <img class="pam" src="#" width="68" height="68">
                     </a>
-                    <a href="http://cm.viadeo.com/fr/company/rte-reseau-de-transport-d-electricite">
+                    <a href="#">
                     <div class="company-name mbxs">Rte - Réseau De Transport D'électricité</div>
                     <div class="star-container">
                         <div class="on-stars" style="width:83.00000000000001%;">
@@ -216,11 +216,11 @@
                     </div>
                     <span class="dispib rating">4.2</span>
                     </a>
-                    <a class="offers dispb mtxs" href="http://cm.viadeo.com/fr/company/rte-reseau-de-transport-d-electricite">10 offres d'emploi</a>
+                    <a class="offers dispb mtxs" href="#">10 offres d'emploi</a>
                   </div>
                     <div class="gu gu-1of4 company_thumbnail">
                     <a href="http://cm.viadeo.com/fr/company/roche-pharma-france">
-                      <img class="pam" src="./Viadeo.com - Cameroun _ réseau social pour professionnels_files/image(4).png" width="68" height="68">
+                      <img class="pam" src="#" width="68" height="68">
                     </a>
                     <a href="http://cm.viadeo.com/fr/company/roche-pharma-france">
                     <div class="company-name mbxs">Roche Pharma France</div>
@@ -322,5 +322,5 @@
   <div class="mobile-picture">&nbsp;</div>
 
 </div>
-   
+
 @endsection

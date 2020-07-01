@@ -177,11 +177,11 @@
 }
 #mobile-section {
  background-color:#f6f7f8;
- background-image:url(/images/homepage/mobile-bg.8c7e57c2.png);
+ background-image:url(/images/mobile-bg.png);
  padding-top:60px
 }
 #mobile-section .mobile-picture {
- background-image:url(/images/homepage/mobile-device.e5a9603e.png);
+ background-image:url(/images/mobile-device.png);
  height:389px
 }
 #mobile-section .h3 {
@@ -196,7 +196,7 @@
 }
 #mobile-section .h-icon {
  display:block;
- background:url(/images/homepage/sprite.bceedc3e.png) no-repeat;
+ background:url(/images/sprite.png) no-repeat;
  height:52px;
  text-decoration:none;
  cursor:pointer;
@@ -277,14 +277,14 @@
  background-color:#FFF
 }
 #h-members .h-members-content {
- background-image:url(/images/homepage/map.45b954dd.png);
+ background-image:url(/images/map.45b954dd.png);
  position:relative;
  max-width:106.666666667em;
  margin-left:auto;
  margin-right:auto
 }
 #h-members .h-members-content.h-members-content-othercountry {
- background-image:url(/images/homepage/map-vierge.3167fd0a.png)
+ background-image:url(/images/map-vierge.3167fd0a.png)
 }
 #h-members .h-members-content .fluid-container {
  position:relative;
@@ -465,7 +465,7 @@
  }
 }
 #h-jobOffers {
- background-image:url(/images/homepage/bg_jobs.78440df6.jpg);
+ background-image:url(/images/bg_jobs.jpg);
  background-size:cover;
  padding-top:5em;
  padding-bottom:5em
@@ -598,7 +598,7 @@
  font-size:8px
 }
 #h-companies {
- background-image:url(/images/homepage/ic-ryc.7e09339c.png);
+ background-image:url(/images/ic-ryc.png);
  background-color:#f6f7f8;
  background-repeat:no-repeat;
  background-position:center
@@ -855,7 +855,7 @@
  right:30px
 }
 #last-section {
- background-color:#f1532e;
+ background-color: #f1532e;
  opacity:.8;
  filter:alpha(opacity=80);
  padding:5em 1em
